@@ -55,4 +55,4 @@ module.exports = {
   criar_pergunta,
   criar_resposta,
   limpar 
-};
+}
